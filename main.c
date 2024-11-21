@@ -2,5 +2,6 @@
 
 int main(){
     puts("Hello World!");
+    puts("Secound commit, example");
     return 0;
 }
